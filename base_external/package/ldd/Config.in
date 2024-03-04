@@ -3,4 +3,4 @@ config BR2_PACKAGE_LDD
 	bool "ldd"
 	depends on BR2_LINUX_KERNEL
 	help
-	  This is the LDD kernel module.
+	  This is the "LDD" kernel module.
