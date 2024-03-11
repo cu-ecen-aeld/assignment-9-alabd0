@@ -8,6 +8,3 @@
 [submodule "assignment-7-alabd0"]
 	path = assignment-7-alabd0
 	url = https://github.com/cu-ecen-aeld/assignment-7-alabd0
-[submodule "assignments-3-and-later-alabd0"]
-	path = assignments-3-and-later-alabd0
-	url = git@github.com:cu-ecen-aeld/assignments-3-and-later-alabd0.git
