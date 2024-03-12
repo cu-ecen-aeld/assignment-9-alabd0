@@ -13,8 +13,7 @@ AESD_ASSIGNMENTS_SITE = git@github.com:cu-ecen-aeld/assignments-3-and-later-alab
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
 
-#AESD_ASSIGNMENTS_SITE = /home/alabd/alabd/git/assignment-8-alabd0/alabd
-#AESD_ASSIGNMENTS_SITE_METHOD = local
+
 
 
 
